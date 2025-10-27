@@ -8,6 +8,8 @@
 
 @theme {  
   --color-navbar: #57564F;
+  --color-text: #F8F3CE;
+  --color-button: #F8F3CE;
 }
 
 @theme inline {
@@ -22,7 +24,7 @@ body {
 }
 
 body h1, p {
-  color: #F8F3CE;
+  color: var(--color-text);
 }
 
 
