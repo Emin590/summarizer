@@ -23,7 +23,7 @@ body {
   font-family: var(--font-montserrat), sans-serif;
 }
 
-body h1, p {
+body h1, p , textarea{
   color: var(--color-text);
 }
 
